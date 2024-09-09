@@ -1,11 +1,5 @@
 import React, { useState } from 'react';
-import {
-  FaBars,
-  FaTimes,
-  FaGithub,
-  FaLinkedin,
-  FaInstagram,
-} from 'react-icons/fa';
+import { FaBars, FaTimes, FaGithub, FaLinkedin,FaInstagram,} from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import Logo from '../assests/Logo.png';
