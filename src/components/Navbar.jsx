@@ -88,7 +88,7 @@ const Navbar = () => {
         </li>
         <li className='py-6 text-4xl'>
           {' '}
-          <Link onClick={handleClick} to='contact' smooth={true} duration={500}>
+          <Link onClick={handleClick} to='Contact' smooth={true} duration={500}>
             Contact
           </Link>
         </li>
@@ -124,7 +124,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href='https://drive.google.com/drive/folders/1l0MsaGXcRB7AAdGZCZoDlVkxY9DH6MrT'
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
